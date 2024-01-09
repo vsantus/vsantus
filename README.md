@@ -22,7 +22,5 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vsantus/) 
   [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@devsantos_) 
 
-  ![Snake animation](https://github.com/vsantus/vsantus/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
