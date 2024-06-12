@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 👨🏻‍💻 Sobre Mim:
 Um Dev em Progresso! 🤖
 
 
-## 🌐 Socials:
+## 🌐 Social:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vsantos____) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vsantus) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@devsantos_) 
 
 # 💻 Tech Stack:
@@ -12,7 +12,7 @@ Um Dev em Progresso! 🤖
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vsantus&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vsantus&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Repo
 ![](https://github-contributor-stats.vercel.app/api?username=vsantus&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
