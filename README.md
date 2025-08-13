@@ -1,4 +1,4 @@
-# Olá! Eu sou o Vinícius Santos 👋
+# Eu sou o Vinícius Santos 👋
 
 Desenvolvedor Front-End apaixonado por transformar ideias em interfaces modernas, escaláveis e centradas no usuário.  
 Focado em performance, acessibilidade e boas práticas de código.  
