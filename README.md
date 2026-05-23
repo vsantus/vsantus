@@ -1,4 +1,4 @@
-# Eai 👋
+# Bem-vindo!
 
 Desenvolvedor Front-End apaixonado por transformar ideias em interfaces modernas, escaláveis e centradas no usuário.  
 Focado em performance, acessibilidade e boas práticas de código.  
@@ -6,7 +6,7 @@ Sempre aprendendo e evoluindo para criar experiências digitais de alto nível.
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias 🤖
 
 <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a> 
