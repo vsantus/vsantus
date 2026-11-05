@@ -80,6 +80,6 @@ Expandindo meus conhecimentos em desenvolvimento Full Stack com Node.js, NestJS,
 
 <div align="center">
 
-**Building scalable applications, learning continuously and turning ideas into solutions.**
+**Construindo aplicações escaláveis, aprendendo continuamente e transformando ideias em soluções.**
 
 </div>
